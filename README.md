@@ -7,8 +7,9 @@ A simple desktop weather application built with **PyQt6** and the **OpenWeatherM
 
 | Search | Result | Error |
 |--------|--------|-------|
-| (./images/Screenshot 2026-09-15 205317.png) | (./images\Screenshot 2026-09-15 205603.png) | (./images\Screenshot 2026-09-15 205526.png) |
-
+| Search | Result | Error |
+|--------|--------|-------|
+| ![Search screen](./images/search.png) | ![Weather result](./images/result.png) | ![Error state](./images/error.png) |
 ## Features
 
 - 🔍 Search current weather by city name
