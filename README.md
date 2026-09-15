@@ -7,8 +7,6 @@ A simple desktop weather application built with **PyQt6** and the **OpenWeatherM
 
 | Search | Result | Error |
 |--------|--------|-------|
-| Search | Result | Error |
-|--------|--------|-------|
 | ![Search screen](./images/search.png) | ![Weather result](./images/result.png) | ![Error state](./images/error.png) |
 ## Features
 
